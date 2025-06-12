@@ -42,5 +42,5 @@ The notebook will:
 
 ## Comparative Note
 
-**Video-Level Alternative (X3D-XS):**
+**Video-Level Alternative:**
 In a parallel experiment on a 200/50 demo split, the R3D-18 model achieved **73.5% → 77.0% → 81.5%** val accuracy over three epochs, with LR = 1e-4 (≈79.3% val acc) far outperforming LR = 1e-3 (30.5% val acc). However, inference speed was **\~20 FPS**, compared to **>300 FPS** with ShuffleNet V2.
