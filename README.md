@@ -1,6 +1,6 @@
 # Retail Time-and-Motion Mini-Challenge
 
-This repository contains an end-to-end pipeline for analyzing retail video clips to extract time-and-motion statistics using a 2D frame-level model (ShuffleNet V2 ×0.5) with an optional video-level X3D-XS alternative.
+This repository contains an end-to-end pipeline for analyzing retail video clips to extract time-and-motion statistics using a 2D frame-level model (ShuffleNet V2 ×0.5) with an optional video-level RD3-18 alternative.
 
 ## Contents
 
